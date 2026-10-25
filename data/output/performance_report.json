@@ -1,0 +1,17 @@
+{
+  "images_loaded": 12,
+  "images_skipped": 0,
+  "image_size": 96,
+  "copies_per_image": 60,
+  "reader_threads": 4,
+  "worker_processes": 4,
+  "dataset_shape": [
+    732,
+    96,
+    96,
+    3
+  ],
+  "sequential_seconds": 9.043,
+  "parallel_seconds": 7.305,
+  "speedup": 1.24
+}
